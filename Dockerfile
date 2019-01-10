@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM gcr.io/google-containers/hyperkube-amd64:v1.12.2
 
 ARG KUBERNETES_VERSION=v1.12.2
 
